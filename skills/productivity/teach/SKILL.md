@@ -1,6 +1,6 @@
 ---
 name: teach
-description: Teach the user a new skill or concept, within this workspace.
+description: "Use this skill when the user wants to learn a new skill or concept within this workspace."
 triggers:
   - user
 argument-hint: "What would you like to learn about?"

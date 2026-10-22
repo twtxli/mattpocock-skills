@@ -1,6 +1,6 @@
 ---
 name: grill-me
-description: A relentless interview to sharpen a plan or design.
+description: "Use this skill when the user wants to be interviewed relentlessly to sharpen a plan or design."
 triggers:
   - user
 ---

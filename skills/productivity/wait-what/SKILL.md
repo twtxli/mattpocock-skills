@@ -1,6 +1,6 @@
 ---
 name: wait-what
-description: "Stop. That last message did not land: re-pitch it."
+description: "Use this skill when the user says the last message did not land and wants it explained again."
 triggers:
   - user
 ---
